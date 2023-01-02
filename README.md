@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @BohdanHoh
+- 👋 Hi, I’m @BohdanH
 - 👀 I’m interested in software development and web design.
-- 🌱 I’m currently working through Learning Web Design 5th Edition by O'Reilly as well as FreeCodeCamp, The Odin Project and Codeacademy.
-- 💞️ I’m looking to start a repository to display my projects and to find meetups to keep me motivated.
+- 🌱 I’m currently working through Head First Learn to Code as well as FreeCodeCamp and The Odin Project.
+- 💞️ I’m looking to display my projects and meet other learners to keep me motivated.
 - 📫 You can reach me by direct message.
 
 <!---
